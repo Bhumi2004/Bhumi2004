@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:
 I'm Currently Learning C++, Full-stack and DSA<br>
 
 
