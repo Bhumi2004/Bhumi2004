@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Currently Learning C++, Full-stack and DSA<br> 
-  
 
+  
 ## 🌐 Socials:
 [![Devpost](https://d2dmyh35ffsxbl.cloudfront.net/assets/reimagine2/devpost-logo-mobile-f3aff76bfc0b6ada9bb4ddd773bfc534769ed793f962612804a1e84c305a5f94.svg)](https://devpost.com/bhumijain127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumi-jain-ab1168253/) 
 
