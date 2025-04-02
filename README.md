@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Learning C++, Full-stack and DSA<br>    
+I'm Currently Learning C++, Full-stack and DSA<br>       
  
       
 ## 🌐 Socials: 
